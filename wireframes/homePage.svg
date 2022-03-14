@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1122.5197"
+   viewBox="0 0 264.58333 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="homePage.svg"
+   inkscape:export-filename="C:\Users\weyla\OneDrive\Desktop\WDD 130\final project\wireframes\trailspage.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1059.246"
+     inkscape:cy="627.91082"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid846"
+       spacingx="6.6145834"
+       spacingy="6.6145834"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="650"
+       y="700"
+       width="274.99999"
+       height="349.99998"
+       id="rect90498" />
+    <rect
+       x="125"
+       y="375"
+       width="424.99999"
+       height="674.99998"
+       id="rect76384" />
+    <rect
+       x="125"
+       y="375"
+       width="825"
+       height="475"
+       id="rect71472" />
+    <rect
+       x="300"
+       y="900"
+       width="478.52457"
+       height="72.271823"
+       id="rect25419" />
+    <rect
+       x="375"
+       y="875"
+       width="349.99999"
+       height="74.999986"
+       id="rect10359" />
+    <rect
+       x="275"
+       y="900"
+       width="500"
+       height="25"
+       id="rect8505" />
+    <rect
+       x="750.00001"
+       y="500.00001"
+       width="100"
+       height="50.000001"
+       id="rect38212" />
+    <rect
+       x="500.00001"
+       y="500.00001"
+       width="100"
+       height="50.000001"
+       id="rect36424" />
+    <rect
+       x="500.00001"
+       y="500.00001"
+       width="100"
+       height="50.000001"
+       id="rect29540" />
+    <rect
+       x="250"
+       y="500.00001"
+       width="100"
+       height="50.000001"
+       id="rect21740" />
+    <rect
+       x="250"
+       y="550.00001"
+       width="600.00001"
+       height="300.00001"
+       id="rect10734" />
+    <rect
+       x="250"
+       y="550.00001"
+       width="600.00001"
+       height="300.00001"
+       id="rect5580" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#cccccc;stroke:#000004;stroke-width:0.665001"
+       id="rect848"
+       width="26.458334"
+       height="238.125"
+       x="0"
+       y="6.0000002e-06" />
+    <rect
+       style="fill:#cccccc;stroke:#000004;stroke-width:0.665001"
+       id="rect850"
+       width="238.125"
+       height="79.375"
+       x="26.458334"
+       y="0" />
+    <circle
+       style="fill:#ffffff;stroke:#000004;stroke-width:0.665001"
+       id="path882"
+       cx="13.229167"
+       cy="13.229167"
+       r="13.229167" />
+    <rect
+       style="fill:#cccccc;stroke:#000004;stroke-width:0.665001"
+       id="rect1066"
+       width="264.58334"
+       height="13.229167"
+       x="1.4152936e-05"
+       y="238.125" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text5578"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5580)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text29538"
+       style="font-size:37.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect29540)" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="145.52084"
+       y="132.29167"
+       id="text32736"><tspan
+         sodipodi:role="line"
+         id="tspan32734"
+         style="stroke-width:0.264583"
+         x="145.52084"
+         y="132.29167" /></text>
+    <rect
+       style="fill:#0000ff;stroke:#000004;stroke-width:0.665001"
+       id="rect62138"
+       width="13.229167"
+       height="13.229167"
+       x="251.35416"
+       y="238.125" />
+    <rect
+       style="fill:#800080;stroke:#000004;stroke-width:0.665001"
+       id="rect62206"
+       width="13.229167"
+       height="13.229167"
+       x="238.12498"
+       y="238.125" />
+    <rect
+       style="fill:#800000;stroke:#000004;stroke-width:0.665001"
+       id="rect62230"
+       width="13.229167"
+       height="13.229167"
+       x="224.89583"
+       y="238.125" />
+    <circle
+       style="fill:#ffffff;stroke:#000004;stroke-width:0.665001"
+       id="path62254"
+       cx="13.229167"
+       cy="39.6875"
+       r="6.6145835" />
+    <circle
+       style="fill:#ffffff;stroke:#000004;stroke-width:0.665001"
+       id="path62256"
+       cx="13.229167"
+       cy="59.53125"
+       r="6.6145835" />
+    <circle
+       style="fill:#ffffff;stroke:#000004;stroke-width:0.665001"
+       id="path62258"
+       cx="13.229167"
+       cy="79.375"
+       r="6.6145835" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.458334,0 264.58334,79.375002 v 0 V 0 L 26.458334,79.375002 v 0"
+       id="path62448" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 224.89586,238.125 c 13.22917,13.22916 13.22917,13.22916 13.22917,13.22916 V 238.125 l -13.22917,13.22916"
+       id="path62456" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 238.12503,238.125 13.22916,13.22916 V 238.125 l -13.22916,13.22916"
+       id="path62458" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 251.35419,238.125 13.22917,13.22916 V 238.125 l -13.22917,13.22916"
+       id="path62460" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text8503"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect8505)" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="178.59375"
+       y="244.73959"
+       id="text56331"><tspan
+         sodipodi:role="line"
+         id="tspan56329"
+         style="stroke-width:0.264583"
+         x="178.59375"
+         y="244.73959"></tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000004;stroke-width:0.665001"
+       id="rect63425"
+       width="85.989586"
+       height="72.760422"
+       x="165.36459"
+       y="99.21875" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 165.36459,99.218752 c 85.98958,72.760418 85.98958,72.760418 85.98958,72.760418 V 99.218752 l -85.98958,72.760418"
+       id="path63460" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text71470"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect71472)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458334)"
+       id="text76382"
+       style="font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect76384);-inkscape-font-specification:'sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+         x="125"
+         y="394.41064"
+         id="tspan120861">Everyone has their favorite stomping </tspan><tspan
+         x="125"
+         y="421.07727"
+         id="tspan120863">grounds, and the places that are on the </tspan><tspan
+         x="125"
+         y="447.74389"
+         id="tspan120865">bucket list. But every now and again a </tspan><tspan
+         x="125"
+         y="474.41052"
+         id="tspan120867">change of pace is nice. The point of </tspan><tspan
+         x="125"
+         y="501.07714"
+         id="tspan120869">exploring is to go somewhere new. Here </tspan><tspan
+         x="125"
+         y="527.74377"
+         id="tspan120871">the community spills the beans on some </tspan><tspan
+         x="125"
+         y="554.4104"
+         id="tspan120873">of the best out of the way places for the </tspan><tspan
+         x="125"
+         y="581.07702"
+         id="tspan120875">avid adventurer. 
+</tspan><tspan
+         x="125"
+         y="607.74365"
+         id="tspan120877">Trip ideas aren’t the only item of business, </tspan><tspan
+         x="125"
+         y="634.41027"
+         id="tspan120879">as conditions and warnings are crucial to </tspan><tspan
+         x="125"
+         y="661.0769"
+         id="tspan120881">plan a good trip. Being able to ask the </tspan><tspan
+         x="125"
+         y="687.74353"
+         id="tspan120883">community what to expect on a trip is </tspan><tspan
+         x="125"
+         y="714.41015"
+         id="tspan120885">always helpful as there are things like </tspan><tspan
+         x="125"
+         y="741.07678"
+         id="tspan120887">weather patterns, how many bugs are </tspan><tspan
+         x="125"
+         y="767.7434"
+         id="tspan120889">out, and trail exposure.</tspan></text>
+  </g>
+</svg>
